@@ -4,4 +4,3 @@
 # EXAM 03
 [![hbouhsis's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl29vc1bv000609lcs2fvnfn6/project/2437635)](https://github.com/JaeSeoKim/badge42)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bouhsiss&show_icons=true&theme=gruvbox)
