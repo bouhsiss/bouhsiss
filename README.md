@@ -1,6 +1,4 @@
-[![hbouhsis's 42 stats](https://badge42.vercel.app/api/v2/cl29vc1bv000609lcs2fvnfn6/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
-# EXAM 02
-[![hbouhsis's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl29vc1bv000609lcs2fvnfn6/project/2437635)](https://github.com/JaeSeoKim/badge42)
-# EXAM 03
-[![hbouhsis's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl29vc1bv000609lcs2fvnfn6/project/2437635)](https://github.com/JaeSeoKim/badge42)
 
+https://badge.mediaplus.ma/darkgray/hbouhsis?UM6P=off
+[![hbouhsis's 42 stats](https://badge.mediaplus.ma/darkgray/hbouhsis?UM6P=off)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/hbouhsis?UM6P=off" alt="hbouhsis's 42 stats" /></a>
